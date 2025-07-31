@@ -38,12 +38,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Eduardo&layout=compact&theme=dark)
 
-## 🌟 What I'm Working On
-
-- Building modern web applications with React and Next.js
-- Creating automation workflows with n8n
-- Integrating AI solutions into web applications
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-eduardo-dos-santos/)
